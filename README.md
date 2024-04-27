@@ -1,8 +1,4 @@
 
-![I am Sémakia | Passionate about Data and Machine Learning](images/banner.png)
-
-
-
 
 
 <div>
@@ -20,10 +16,11 @@
         <a href="https://t.me/ahmedfathydev"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
     </div>
     <div align=left>
-        <br>
+        <h1>FullStack Developper and Passionnate Data Science Student</h1>
+        <br> 
         <p>
             <strong>
-                Computer Science Student, Back-End Engineer, Problem Solver, Freelancer, and Open-Source Enthusiast.<br><br>
+                I am an Full Stack Developper passionnate Data science and machine Laearning student .<br><br>
                 I specialize in .NET Core and Microsoft SQL Server and I have experience working with Angular. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
                 I am passionate about learning .NET, all Back-End Technologies, Web 3, Blockchain, Linux, Virtualization, Cloud Computing, and DevOps.<br><br>
                 Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
