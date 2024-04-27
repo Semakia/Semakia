@@ -36,7 +36,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedfathydev&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
         <br>
         -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedFathyDev&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
+        <img src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Semakia&theme=onedark&hide_border=true&mode=weekly" alt="GitHub Streak" height="200" />
         <br>
         <br>
     </div>
