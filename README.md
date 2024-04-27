@@ -3,7 +3,7 @@
 
 <div>
     <div align=center>
-        <img src="images/banner.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+        <img src="images/banner.png" alt="Let's talk about data" height="200">
     </div>
     <div align=center>
         <a href="https://www.linkedin.com/in/semakia-djaba-6105b9264/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
@@ -15,8 +15,8 @@
         <p>
             <strong>
                 I am an Full Stack Developper passionnate Data science and machine Laearning student .<br><br>
-                I specialize in .NET Core and Microsoft SQL Server and I have experience working with Angular. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
-                I am passionate about learning .NET, all Back-End Technologies, Web 3, Blockchain, Linux, Virtualization, Cloud Computing, and DevOps.<br><br>
+                I have strong skills in python , sql , html , Javascript , CSS and UML .<br><br>
+                I am passionate about learning Data visualisation ,   Cloud Computing,  DevOps , .<br><br>
                 Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
             </strong>
         </p>
