@@ -10,19 +10,19 @@
         <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
     </div>
     <div align=left>
-        <h1>FullStack Developper || Passionnate Data Science Student</h1>
+        <h1>FullStack Developper || Passionnate Data Engineering Learner</h1>
         <br> 
         <p>
             <strong>
-                I am an Full Stack Developper passionnate Data science and machine Laearning student .<br><br>
+                I am an Full Stack Developper passionnate Data Engineering Learner<br><br>
                 I have strong skills in python , sql , html , Javascript , CSS and UML .<br><br>
-                I am passionate about learning Data visualisation ,   Cloud Computing,  DevOps , .<br><br>
+                I am passionate about learning Data visualisation , Machine Learning, ETL,  Cloud Computing,  DevOps, Data-Ops .<br><br>
                 Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
             </strong>
         </p>
         <ul>
-            <li>🌱 <b>I’m currently learning</b>: Computer Science and Software Engineering.</li>
-            <li>🎯 <b>I’m currently focusing on</b>: <a href="https://ahmedfathydev.github.io/Problem-Solving/">Problem-Solving</a>, ⭐️ star the projects if you like it 🤩.</li>
+            <li>🌱 <b>I’m currently learning</b>: Data Engineering and Machine Learning.</li>
+            <li>🎯 <b>I’m currently focusing on</b>: Realizing Machine Learning and Data Enginnering Projects </li>
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://flowcv.io/resume/feedback/lMhKFXfgJjf8">LINK TO MY RESUME</a>.</li>
             <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/ahmedfathydev/ahmedfathydev/issues">Here</a>.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
