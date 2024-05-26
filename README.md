@@ -14,7 +14,7 @@
         <br> 
         <p>
             <strong>
-                I am an Full Stack Developper passionnate Data Engineering Learner<br><br>
+                I am an Full Stack Developper and  passionnate Data Engineering Learner<br><br>
                 I have strong skills in python , sql , html , Javascript , CSS and UML .<br><br>
                 I am passionate about learning Data visualisation , Machine Learning, ETL,  Cloud Computing,  DevOps, Data-Ops .<br><br>
                 Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
